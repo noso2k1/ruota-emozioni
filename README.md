@@ -15,9 +15,9 @@ E non sei di Brescia, allora vai a vedere uno spettacolo di improvvisazione teat
 
 ----
 
-Il codice JS legge le emozioni dal file `emotions.csv`. Se vuoi provare la ruota in locale e non vedi nulla, può essere che il tuo browser blocchi le richieste per file sul tuo computer (ad esempio Chrome). Ti basta sostituire nel file `ruotaemozioni_v2.2.js` la riga
+Il codice JS legge le emozioni dal file `emotions.csv`. Se vuoi provare la ruota in locale e non vedi nulla, può essere che il tuo browser blocchi le richieste per file sul tuo computer (come ad esempio Chrome). Ti basta andare nel file `ruotaemozioni_v2.2.js` e sostituire la riga
 
-`var filename ="emotions.csv";`
+`var filename = "emotions.csv";`
 
 con
 
