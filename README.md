@@ -7,11 +7,11 @@ Il grafico è navigabile, quindi cliccando su uno spicchio si visualizzano i suo
 
 ----
 
-La ruota è ospitata sul sito dell'**Accademia Bresciana di Improvvisazione Teatrale** a [a questo indirizzo](http://www.improaccademia.it/ruota-delle-emozioni/).
+La ruota è ospitata sul sito dell'**Accademia Bresciana di Improvvisazione Teatrale** a [questo indirizzo](http://www.improaccademia.it/ruota-delle-emozioni/).
 
-Se ti piace la ruota, puoi supportare i ragazzi e le ragazze di ABIT andando a vedere ai loro spettacoli! https://www.improaccademia.it
+Se ti piace la ruota e vuoi supportarmi, allora vai a vedere uno spettacolo dei ragazzi e delle ragazze di ABIT! https://www.improaccademia.it
 
-E non sei di Brescia, allora vai a vedere uno spettacolo di improvvisazione teatrale nella tua città.
+Se non sei di Brescia, allora vai a vedere un qualsiasi spettacolo di improvvisazione teatrale nella tua città.
 
 ----
 
