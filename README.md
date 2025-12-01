@@ -1,10 +1,10 @@
-# La ruota delle emozioni - Wheel of Emotions
+# La ruota delle emozioni / Wheel of Emotions
 
 Tempo fa girava tra vari blog e siti d’improvvisazione, [questa immagine](https://9gag.com/gag/a67wq2q): una “ruota delle emozioni” realizzata da Kaitlin Robbs, un insegnante (non di improvvisazione), che dettagliava le molte sfaccettature di sentimenti che deriverebbero da 6 emozioni primarie. Ho sempre trovato l’immagine scomoda da consultare, così, quando mi sono messo a giocare e programmare con la libreria grafica D3 ho trovato una modalità per rendere questa utilissima risorsa più fruibile ed un po’ più colorata.
 
 Il grafico è navigabile, quindi cliccando su uno spicchio si visualizzano i suoi spicchi superiori. Per tornare indietro, basta cliccare nel centro del cerchio. Funziona anche da cellulare.
 
-[Clicca qui la ruota delle emozioni](wheel.html) // [Click here for the Wheel of Emotions](wheel.html)
+[Clicca qui la ruota delle emozioni](wheel.html)  /  [Click here for the Wheel of Emotions](wheel.html)
 
 La ruota è stata ospitata a lungo sul sito dell'**Accademia Bresciana di Improvvisazione Teatrale** come risorsa per improvvisatori. Dopo un redisign del sito però, la ruota è stata tolta, ed ora si può continuare ad usare qui su questa pagina. 
 
