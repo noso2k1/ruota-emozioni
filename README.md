@@ -7,7 +7,7 @@ Il grafico è navigabile, quindi cliccando su uno spicchio si visualizzano i suo
 
 ----
 
-La ruota è ospitata sul sito dell'**Accademia Bresciana di Improvvisazione Teatrale** a [questo indirizzo](http://www.improaccademia.it/ruota-delle-emozioni/).
+La ruota è stata ospitata a lungo sul sito dell'**Accademia Bresciana di Improvvisazione Teatrale** come risorsa per improvvisatori. Dopo un redisign del sito però, la ruota è stata tolta, ed ora si può continuare ad usare qui su questa pagina. 
 
 Se ti piace la ruota e vuoi supportarmi, allora vai a vedere uno spettacolo dei ragazzi e delle ragazze di ABIT! https://www.improaccademia.it
 
