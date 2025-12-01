@@ -4,12 +4,13 @@ Tempo fa girava tra vari blog e siti d’improvvisazione, [questa immagine](http
 
 Il grafico è navigabile, quindi cliccando su uno spicchio si visualizzano i suoi spicchi superiori. Per tornare indietro, basta cliccare nel centro del cerchio. Funziona anche da cellulare.
 
+[Clicca qui la ruota delle emozioni](wheel.html)
 
 ----
 
 La ruota è stata ospitata a lungo sul sito dell'**Accademia Bresciana di Improvvisazione Teatrale** come risorsa per improvvisatori. Dopo un redisign del sito però, la ruota è stata tolta, ed ora si può continuare ad usare qui su questa pagina. 
 
-Se ti piace la ruota e vuoi supportarmi, allora vai a vedere uno spettacolo dei ragazzi e delle ragazze di ABIT! https://www.improaccademia.it
+Se ti piace la ruota e vuoi supportarmi, allora vai a vedere uno spettacolo dei ragazzi e delle ragazze di [ABIT](https://www.improaccademia.it)!
 
 Se non sei di Brescia, allora vai a vedere un qualsiasi spettacolo di improvvisazione teatrale nella tua città.
 
