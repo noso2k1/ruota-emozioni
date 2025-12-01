@@ -4,7 +4,8 @@ if (!height || height == 0 ) { height = 780; }
 if (!width || width == 0) { width = 780; }
 
 var radius = Math.min(width, height) / 2;
-var filename ="emotions.csv";
+// var filename ="emotions.csv";
+var filename = "https://raw.githubusercontent.com/noso2k1/ruota-emozioni/main/emotions.csv";
 
 function filter_min_arc_size_text(d, i) {return (d.dx*d.depth*radius/4)>14}; 
 
